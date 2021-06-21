@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: yellow;
+  padding: 25px;
+}
+
+.container {
+  width: 1000px;
+  height: 900px;
+  margin: 0 auto;
+  padding: 25px;
+  border: 1px solid black;
+  padding: 25px;
+}
+
+header p {
+  color: red;
+  padding: 25px;
+  font-size: 50px;
+  font-style: italic;
+  text-align: center;
+}
+
+section p {
+  color: green;
+  font-size: 30px;
+  padding: 15px;
+  border: 1px solid black;
+}
+
+img {
+  width: 700px;
+  margin: 25px 150px;
+  border: 5px solid black;
+}
